@@ -18,7 +18,7 @@
     </a>  
     <a href="http://perfect.ly" target="_blank">
         <img src="http://www.perfect.org/github/Perfect_GH_button_4_slack.jpg" alt="Join the Perfect Slack" />
-    </a> 
+    </a>
 </p>
 
 <p align="center">
@@ -45,3 +45,4 @@
 ## Usage:
 
 This is the Perfect Documentation template. Used in the generation of HTML documentation.
+（本项目是Perfect文档的工程模板，用于自动生成HTML文档。）
